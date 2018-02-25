@@ -1,0 +1,20 @@
+---------------------------------------------
+修订版本号: 100
+提交者: dnoyeb
+日期: Thu Jan 16 14:03:53 CST 2003
+注释信息: New FigureDecorator using decorator pattern now installed.
+A few other minor cleanups.
+
+受影响的文件、目录:
+M /branches/dnoyeb1/JHotDraw/src/CH/ifa/draw/standard/AbstractFigure.java
+M /branches/dnoyeb1/JHotDraw/src/CH/ifa/draw/figures/BorderDecorator.java
+M /branches/dnoyeb1/JHotDraw/src/CH/ifa/draw/framework/Figure.java
+M /branches/dnoyeb1/jhotdraw6/src/org/jhotdraw/framework/Figure.java
+M /branches/dnoyeb1/JHotDraw/src/CH/ifa/draw/samples/javadraw/JavaDrawApp.java
+M /branches/dnoyeb1/JHotDraw/src/CH/ifa/draw/standard/CompositeFigure.java
+M /branches/dnoyeb1/jhotdraw6/src/org/jhotdraw/standard/AbstractFigure.java
+M /branches/dnoyeb1/jhotdraw6/src/org/jhotdraw/figures/BorderDecorator.java
+M /branches/dnoyeb1/JHotDraw/src/CH/ifa/draw/figures/BorderTool.java
+M /branches/dnoyeb1/jhotdraw6/src/org/jhotdraw/figures/BorderTool.java
+M /branches/dnoyeb1/jhotdraw6/src/org/jhotdraw/standard/CompositeFigure.java
+M /branches/dnoyeb1/jhotdraw6/src/org/jhotdraw/samples/javadraw/JavaDrawApp.java
